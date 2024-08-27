@@ -1,4 +1,4 @@
-.venv/
+.venv-nasa-neo-deploy/
 .vscode/
 .DS_Store
 .env
